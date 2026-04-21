@@ -7,8 +7,11 @@
 Product Strategy | Fraud & Identity | HealthTech & CX | AI-Enabled Platforms
 
 🎯**My Focus**
+
       ↳ Identify where AI and data create measurable leverage in clinical workflows and risk systems. 
+      
       ↳ Translate complex regulatory constraints into usable, scalable product solutions. 
+
       ↳ Balance user friction with enterprise security (optimizing patient onboarding vs. reducing false positives).
 
 💡 **What I Actually Do:**
