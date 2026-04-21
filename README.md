@@ -2,7 +2,7 @@
 
 **Most tech is built to move fast and break things. I build products for industries where breaking things means compromised patient care or millions lost to fraud.**
 
-**With 16+ years in Fintech (Fraud & Identity) and HealthTech, I operate in the most highly regulated corners of tech. When a product decision blocks a financial transaction or impacts a care journey, trust and compliance matter more than hype. I don't just ship features—I design resilient systems that solve messy, ambiguous business problems at scale.**
+**With 16+ years in Fintech (Fraud & Identity) and HealthTech, I operate in the most highly regulated corners of tech. When a product decision blocks a financial transaction or impacts a care journey, trust and compliance matter more than hype. I don't just ship features, I design resilient systems that solve messy, ambiguous business problems at scale.**
 
 Product Strategy | Fraud & Identity | HealthTech & CX | AI-Enabled Platforms
 
