@@ -47,6 +47,6 @@ Product Strategy | Fraud & Identity | HealthTech & CX | AI-Enabled Platforms
       ⚙️ AI-Driven SDLC Orchestration → Using AI tooling to streamline sprint planning, documentation, and requirement structuring.
 
 🛠 **Playing with** 
-  Claude Code Claude API ChatGPT Cursor Supabase Figma Vercel Jira NotebookLM Supabase Google Stitch Antigravity Lovable n8n Gumloop ElevenLabs Vapi
+  Claude Code| Claude API| ChatGPT| Cursor| Figma| Vercel| Jira| NotebookLM| Lovable| n8n| Notion
 
 🌍 **Open To Global Roles In:** AI Product Leadership | HealthTech & Insurance | Fraud & Risk Tech | Digital Transformation | Enterprise SaaS
