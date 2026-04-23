@@ -35,7 +35,7 @@ Product Strategy | Fraud & Identity | HealthTech & CX | AI-Enabled Platforms
 
     Fraud & Identity Ops Playbook → Frameworks for optimizing ML-based fraud detection while protecting the customer journey.
     
-    MedAssist AI → A deployed React prototype using Claude to automate clinical workflows — SOAP note extraction, diagnostic order mapping, lab trend analysis, and ICD-10/CPT claim generation. (https://medassistaipoc.netlify.app/)
+    **MedAssist AI** → A deployed React prototype using Claude to automate clinical workflows — SOAP note extraction, diagnostic order mapping, lab trend analysis, and ICD-10/CPT claim generation. (https://medassistaipoc.netlify.app/) 
     
     Product–AI Fit Matrix → A practitioner's guide to evaluating where AI actually adds business value in regulated B2B/Enterprise SaaS.
 
