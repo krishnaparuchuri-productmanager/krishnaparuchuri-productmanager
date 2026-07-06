@@ -6,6 +6,8 @@
 
 Product Strategy | Fraud & Identity | HealthTech & CX | AI-Enabled Platforms
 
+**🌐 Portfolio & Live Demos:** [krishnaparuchuri.com](https://krishnaparuchuri.com)
+
 🎯**My Focus**
 
       ↳ Identify where AI and data create measurable leverage in clinical workflows and risk systems. 
@@ -33,11 +35,21 @@ Product Strategy | Fraud & Identity | HealthTech & CX | AI-Enabled Platforms
 
 🚀**Currently Building**
 
-    Fraud & Identity Ops Playbook → Frameworks for optimizing ML-based fraud detection while protecting the customer journey.
-    
-    **MedAssist AI** → A deployed React prototype using Claude to automate clinical workflows — SOAP note extraction, diagnostic order mapping, lab trend analysis, and ICD-10/CPT claim generation. (https://medassistaipoc.netlify.app/) 
-    
-    Product–AI Fit Matrix → A practitioner's guide to evaluating where AI actually adds business value in regulated B2B/Enterprise SaaS.
+    **TPSS Security — Operations & Finance Portal** → A production operations and finance portal for a manpower-security business — maker–checker payroll approvals, GST-compliant invoicing, and PF/ESI compliance across 8 modules. Live in production; repo intentionally private (real client/financial data).
+
+    **AgentOps — AI Agent Governance Platform** → Lifecycle management and observability for production AI agents, with a governance queue and LangSmith-backed tracing. (https://agentops.krishnaparuchuri.com/)
+
+    **GMP Deviation Review AI Assistant** → An AI-assisted compliance workflow for reviewing GMP deviations in regulated manufacturing. (https://gmpdeviationreview.krishnaparuchuri.com/)
+
+    **MedAssist AI** → A deployed React prototype using Claude to automate clinical workflows — SOAP note extraction, diagnostic order mapping, lab trend analysis, and ICD-10/CPT claim generation. (https://medassistai.krishnaparuchuri.com/)
+
+    **FraudShield** → A mobile-first identity verification and fraud detection tool for India's Aadhaar-linked KYC market — 0–100 risk scoring in under two seconds. (https://fraudshield.krishnaparuchuri.com)
+
+📂 **Other Projects**
+
+    **Location Verification Service** → A geo-identity verification system confirming users are where they claim to be, balancing fraud prevention and compliance with a smooth experience for genuine users.
+
+    **Jio Health Hub × Netmeds Playbook** → A 100M-user growth strategy playbook for a health services + pharmacy partnership.
 
 🧪 **Side Lab** — What I'm Exploring Outside Work I treat my spare time as a low-stakes sandbox to test AI applications in domains I care about. No roadmaps, no stakeholders — just curiosity-driven building.
 
